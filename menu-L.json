@@ -1,0 +1,57 @@
+[
+        { 
+            "picture": "./aserts/Paneer Butter Masala.jpeg",
+            "name": "Paneer Butter Masala",
+            "price": 30,
+            "type": "Indian"
+        },
+        { 
+            "picture": "./aserts/Vegetable Pulao.jpeg",
+            "name": "Vegetable Pulao",
+            "price": 35,
+            "type": "Indian"
+        },
+        { 
+            "picture": "./aserts/Masoor Dal.jpeg",
+            "name": "Masoor Dal",
+            "price": 25,
+            "type": "Indian"
+        }, 
+        { 
+            "picture": "./aserts/Dal Tadka.jpeg",
+            "name": "Dal Tadka",
+            "price": 30,
+            "type": "Indian"
+        },
+        { 
+            "picture": "./aserts/Chicken Biryani.jpeg",
+            "name": "Chicken Biryani",
+            "price": 30,
+            "type": "Indian"
+        },
+        { 
+            "picture": "./aserts/Chicken Curry.jpeg",
+            "name": "Chicken Curry",
+            "price": 30,
+            "type": "Indian"
+        },
+        { 
+            "picture": "./aserts/Fish Curry.jpeg",
+            "name": "Fish Curry",
+            "price": 30,
+            "type": "Indian"
+        },
+        { 
+            "picture": "./aserts/Goan Prawn Curry.jpeg",
+            "name": "Goan Prawn Curry",
+            "price": 30,
+            "type": "Indian"
+        },
+        { 
+            "picture": "./aserts/Butter Chicken.jpeg",
+            "name": "Butter Chicken",
+            "price": 30,
+            "type": "Indian"
+        }
+        
+    ]

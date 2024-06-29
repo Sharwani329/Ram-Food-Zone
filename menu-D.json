@@ -1,0 +1,61 @@
+[
+    {
+        "picture": "./aserts/Jalebi.jpeg",
+        "name": "Jalebi",
+        "price": "284.00"
+           
+    },
+    {
+        "picture": "./aserts/Peda.jpeg",
+        "name": "Peda",
+        "price": "284.00"
+           
+    },
+    {
+        "picture": "./aserts/Halwa.jpeg",
+        "name": "Halwa",
+        "price": "284.00"
+           
+    },
+    {
+        "picture": "./aserts/Rasmalai.jpeg",
+        "name": "Rasmalai",
+        "price": "284.00"
+           
+    },
+    {
+        "picture": "./aserts/Gulab Jamun.jpeg",
+        "name": "Gulab Jamun",
+        "price": "284.00"
+           
+    },
+    {
+        "picture": "./aserts/Barfi.jpeg",
+        "name": "Barfi",
+        "price": "284.00"
+           
+    },
+    {
+        "picture": "./aserts/Thandai Ice Cream.jpeg",
+        "name": "Thandai Ice Cream",
+        "price": "284.00"
+           
+    },
+    {
+        "picture": "./aserts/Mango Ice Cream.jpeg",
+        "name": "Mango Ice Cream",
+        "price": "284.00"
+           
+    },
+    {
+        "picture": "./aserts/Rajbhog Ice Cream.jpeg",
+        "name": "Rajbhog Ice Cream",
+        "price": "284.00"
+           
+    },{
+        "picture": "./aserts/Kesar Pista Ice Cream.jpeg",
+        "name": "Kesar Pista Ice Cream",
+        "price": "284.00"
+           
+    }
+]

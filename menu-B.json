@@ -1,0 +1,48 @@
+[
+    {
+       "picture": "./aserts/Poha.jpeg",
+       "name": "Poha",
+       "price": "Rs.30"
+      
+    },
+    {
+      "picture": "./aserts/Upma.jpeg",
+       "name": "Upma",
+       "price": "Rs.35"  
+    },
+    {
+      "picture": "./aserts/Sprouts.jpeg",
+       "name": "Sprouts",
+       "price": "Rs.100"
+    },
+    {
+      "picture": "./aserts/Vegetable Sandwich.jpeg",
+       "name": "Vegetable Sandwich",
+       "price": "Rs.50"
+    },
+    {
+      "picture": "./aserts/Dhokla.jpeg",
+        "name":"Dhokla",
+        "price": "Rs.70"
+     },
+     {
+      "picture": "./aserts/Handvo.jpeg",
+        "name":"Handvo",
+        "price": "Rs.60"
+     },
+     {
+      "picture": "./aserts/Daliya.jpeg",
+        "name":"Daliya",
+        "price": "Rs.45"
+     },
+     {
+      "picture": "./aserts/Chila.jpeg",
+        "name":"Chila",
+        "price": "Rs.50"
+     },
+     {
+      "picture": "./aserts/Idli Sambar.jpeg",
+        "name":"Idli Sambar",
+        "price": "Rs.35"
+     }
+  ]

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./contact.css">
+    <title>Document</title>
+</head>
+<body>
+    <section id="contact">
+      <img src="./aserts/contact-img.jpeg" alt="img">
+      <h4>If you want to know about more food items..</h4>
+        <h2>Contact Us!</h2>
+      
+      <form action="#">
+        <div class="input-box">
+          <div class="input-field">
+            <input type="text" placeholder="Full Name" id="Name" class="item" autocomplete="off" >
+          </div>
+          <div class="input-field">
+            <input type="text" placeholder="Email Address" id="Email" class="item" autocomplete="off" >
+          </div>
+        </div>
+      
+      <div class="input-box">
+          <div class="input-field">
+            <input type="text" placeholder="Phone number" id="Phone" class="item" autocomplete="off" >
+          </div>
+          <div class="input-field">
+            <input type="text" placeholder="subject" id="Subject" class="item" autocomplete="off" >
+          </div>
+        </div>
+      
+        <div class="textarea-field field">
+          <textarea name="" id="message" cols="30" rows="10" 
+          placeholder="Your Message" class="item" autocomplete="off" >
+          </textarea>
+        </div>
+      
+        <button type="submit" class="btn-1" onclick="openPopup()">Send Message</button>
+       
+      <div class="container" id="popup" >
+        <!-- <button type="submit" class="btn-1">Send Message</button> -->
+       
+      <div>
+      <img src="./Images/404-tick.png" id="tick-icon">
+      <h3>Thank You!</h3>
+      <p>Message sent Successfully...</p>
+      <button type="button" class="btn-2" onclick="closePopup()">OK</button>
+       </div>
+      
+      </div>
+      </form>
+      </section>
+</body>
+
+<script src="./contact.js"></script>
+<script src="https://smtpjs.com/v3/smtp.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+</html>
